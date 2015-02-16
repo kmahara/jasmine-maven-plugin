@@ -1,9 +1,6 @@
 .DS_Store
 .metadata
 target
-.classpath
-.settings
-.project
 .idea
 pom.xml.releaseBackup
 release.properties
